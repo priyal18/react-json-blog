@@ -1,0 +1,49 @@
+{
+  "blogs": [
+    {
+      "title": "Bliss In Travel",
+      "description": "At the conclusion of a recent Intelligence Squared Asia debate on whether \"Money Can't Buy Happiness,\" the audience was split -- 49% agreed and 49% disagreed, with 2% undecided. But when it came to travel, there was one very obvious winning premise -- travel makes us all happy. As a luxury travel planner, I thought it was pretty obvious: travel makes us happy, but one needs money to buy wondrous, inspiring travel experiences. Ergo, money can buy happiness. I had been inspired by an invitation to this year's PURE Life Experiences conference to ask the debaters: does travel make you happy? Where have you been that's made you most happy or unhappy? (See their answers below) We are now living in the \"Dream Society,\" the organizers of PURE Life Experiences told me in their well-scripted promotional email, in which \"Contrary to the procurement of mass tourism products, the creation of happiness through engaging journeys is never based on the knowledge of every detail in advance.\" Experiential travel is about presenting the customer with the surprise of the \"unknown,\" the luxury of \"unexpected choices\" and the empowerment of \"overcoming hurdles\" (such as scaling a peak) so that he feels he has completed a \"journey towards self-actualization.\" Travel makes us happy, because it promises us the self-discovery needed to reach the pinnacle of Abraham Maslow's view of the human hierarchy of needs. Before him, Carl Jung called it individuation.",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/dqp2hcuur/image/upload/v1652181222/avcmjnbikn0235mupwev.jpg",
+      "date": "05/10/2022",
+      "liked": true,
+      "id": 1
+    },
+    {
+      "title": "Women in Tech",
+      "description": "Starting a family is a long-held point of contention for women in the technology industry. It can significantly slow down female career progression, exacerbate the gender pay gap, and lead women to take career breaks – or leave the industry altogether – before the age of 35.   If you’re a mom in tech, you may be faced with unfair bias and stigma on a daily basis. But we’re here to tell you this:  Tech needs you. For many reasons.   So let’s explore exactly why that is in more detail, and ways you can overcome the obstacles facing mothers in tech.  Real Talk: Mothers in technology face unique struggles While working in the male-dominated technology industry is tough for all women, those that want to have children face the pressure of trying to balance career progression within the constraints of the female fertility window. (After age 40, there’s only a 5% chance of falling pregnant, even with the use of assistive technologies.)  What’s more, the ‘motherhood penalty’ means that women literally take a pay cut when they have kids. (Men’s salaries, by contrast, go up.) This further amplifies the gender pay gap issue.  We also can’t ignore the pressure that society often places on working mothers. Karin Lachmi wrote about this in a 2019 Forbes article:  “From the social structures and norms around me, I got lots of mixed signals — one side told me to stay home as long as possible, while the other side pushed me to go back to work as soon as possible. It felt like they expected me to work like I didn’t have a baby and to raise my baby like I didn’t have to work.”  These unrealistic expectations often force women out of the workplace to raise children, or prioritize work at the expense of becoming a mother.",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/dqp2hcuur/image/upload/v1652181357/nc3snkm3rr46pxwfstb7.jpg",
+      "date": "05/10/2022",
+      "liked": false,
+      "id": 2
+    },
+    {
+      "title": "Virat Kohli",
+      "description": "Virat Kohli born 5 November 1988) is an Indian international cricketer and former captain of the India national cricket team.\nHe is often considered one of the best batsmen of his era and some critics believe him to be one of the best limited-overs batsmen in history.\nHe is ranked as one of the world's most famous athletes by ESPN and one of the most valuable athlete brands by Forbes. In 2018, Time magazine named him one of the 100 most influential people in the world. In 2020, he was ranked 66th in Forbes list of the top 100 highest-paid athletes in the world for the year 2020 with estimated earnings of over $26 million.",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dqp2hcuur/image/upload/v1652182606/hoqlyrlyrsrynnmqcwxs.jpg",
+      "date": "05/10/2022",
+      "liked": true,
+      "id": 3
+    },
+    {
+      "title": "Indian cuisine",
+      "description": "Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. Given the diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally available spices, herbs, vegetables, and fruits.\n\nIndian food is also heavily influenced by religion, in particular Hinduism and Islam, cultural choices and traditions.[1][2]\n\nHistorical events such as invasions, trade relations, and colonialism have played a role in introducing certain foods to this country. The Columbian discovery of the New World brought a number of new vegetables and fruit to India. A number of these such as potatoes, tomatoes, chillies, peanuts, and guava have become staples in many regions of India.[3]\n\nIndian cuisine has shaped the history of international relations; the spice trade between India and Europe was the primary catalyst for Europe's Age of Discovery.[4] Spices were bought from India and traded around Europe and Asia. Indian cuisine has influenced other cuisines across the world, especially those from Europe (especially Britain), the Middle East, Southern African, East Africa, Southeast Asia, North America, Mauritius, Fiji, Oceania, and the Caribbean.\n\nThe traditional food of India has been widely appreciated for its fabulous use of herbs and spices. Indian cuisine is known for its large assortment of dishes. The cooking style varies from region to region and is largely divided into South Indian & North Indian cuisine. India is quite famous for its diverse multi cuisine available in a large number of restaurants and hotel resorts, which is reminiscent of unity in diversity. The staple food in India includes wheat, rice and pulses with chana (Bengal Gram) being the most important one. In modern times Indian pallete has undergone a lot of change. In the last decade, as a result of globalisation, a lot of Indians have travelled to different parts of the world and vice versa there has been a massive influx of people of different nationalities in India. This has resulted in Indianisation of various international cuisines. Nowadays, in big metro cities one can find specialised food joints of international cuisines. To know more about the Indian traditional food, read on.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dqp2hcuur/image/upload/v1652263178/bvt5qvmbziv625i5rcti.jpg",
+      "date": "05/11/2022",
+      "liked": false,
+      "id": 8
+    },
+    {
+      "title": "eww",
+      "description": "wew",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dqp2hcuur/image/upload/v1653542146/cvqkufzpumkvk6yovsnd.jpg",
+      "date": "05/26/2022",
+      "liked": false,
+      "id": 9
+    }
+  ]
+}
